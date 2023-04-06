@@ -1,1 +1,1 @@
-ApiDesabilitada
+WRDDesabilitado
